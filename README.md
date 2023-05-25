@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Edgal4
 - 👀 I’m interested in improving the world through data science!
-- 🌱 I’m currently learning more about IKEA.
-- 💞️ I’m looking to collaborate on advancements in NLP.
+- 🌱 I’m learning more everyday about IKEA and working to improve the lives of the many customers and co-workers.
+- 💞️ I’m looking to collaborate on advancements in NLP/ML/AI.
 - 📫 How to reach me edward.galligan@ingka.ikea.com
